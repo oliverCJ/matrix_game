@@ -24,6 +24,11 @@ SIZE = 20
 
 ### python依赖
 ```
+# 电脑显示屏需要
+# pygame
+sudo pip3 install pygame
+
+# LED像素屏需要
 # Neopixel驱动，pygame, max7219, libsdl
 sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixels
 sudo pip3 install pygame

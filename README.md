@@ -2,7 +2,7 @@
 
 > 项目使用python3, 基于pygame编写，主要是重构了一个开源树莓派项目的代码，目前支持2种输出设备（重构未完成）
 > - 输出到电脑显示屏幕，只要系统能够运行python即可
-> - 输出到WS2812B组成的LED像素屏(10*20)，分数或提示信息输出到MAX7219（8*32）点阵屏
+> - 输出到WS2812B组成的LED像素屏(10x20)，分数或提示信息输出到MAX7219（8x32）点阵屏
 > 开源树莓派项目地址:https://www.instructables.com/Wooden-LED-Gaming-Display-Powered-by-Raspberry-Pi-/
 
 ### 设置方式
